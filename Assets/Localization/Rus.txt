@@ -1,0 +1,5 @@
+Language = Rus
+Start = Игра
+Option = Опции
+Languages = Язык
+Back  = Назад

@@ -1,0 +1,5 @@
+Language = English
+Languages = English
+Start = START
+Option = OPTIONS
+Back = Back
